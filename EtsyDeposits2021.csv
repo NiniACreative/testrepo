@@ -1,0 +1,15 @@
+Date;Amount;Currency;Status;Bank Account Ending Digits;
+19-Jan;2021;$346,20;USD;Executed;8812
+01-Feb;2021;$191,75;USD;Executed;8812
+01-Mar;2021;$354,00;USD;Executed;8812
+05-Apr;2021;$554,65;USD;Executed;8812
+03-May;2021;$1.132,76;USD;Executed;8812
+07-Jun;2021;$1.387,16;USD;Executed;8812
+05-Jul;2021;$430,66;USD;Executed;8812
+02-Aug;2021;$415,91;USD;Executed;8812
+13-Sep;2021;$1.035,37;USD;Executed;8812
+04-Oct;2021;$761,79;USD;Executed;8812
+01-Nov;2021;$354,99;USD;Executed;8812
+06-Dec;2021;$797,15;USD;Executed;8812
+;;;;;
+;;$7.762,39;;;
